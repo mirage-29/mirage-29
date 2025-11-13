@@ -38,6 +38,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirage-29&hide=prs&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mirage-29&theme=radical" height="180"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirage29-git&theme=tokyonight" />
+</div>
 </div>
 
 ---
