@@ -9,9 +9,9 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/mirage-29?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/mirage-29?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mirage-29.mirage-29" />
+  <img src="https://img.shields.io/github/followers/mirage-29?label=Followers&style=social&cacheSeconds=3600" />
+  <img src="https://img.shields.io/github/stars/mirage-29?affiliations=OWNER%2CCOLLABORATOR&style=social&cacheSeconds=3600" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mirage-29.mirage-29" />
 </div>
 
 ---
@@ -38,8 +38,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirage-29&hide=prs&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mirage-29&theme=radical" height="180"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirage29-git&theme=tokyonight" />
-</div>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirage-29&theme=tokyonight" />
+
 </div>
 
 ---
@@ -50,7 +50,7 @@
    <a href="https://instagram.com/mishra__raunak" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/raunak-mishra-2137a030b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/raunak-mishra-2137a030b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mishraraunak52@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mishraraunak52@gmail.com" target="_bl<img height="165" <image src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
